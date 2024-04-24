@@ -8,7 +8,7 @@ const port = 3000;
 
 //database connection
 const db = mysql.createConnection({
-  host: "localhost",
+  host: "srv1364.hstgr.io",
   user: "u737395718_root_user",
   password: "hsxKLgjExE4!",
   database: "u737395718_crochet_db",
